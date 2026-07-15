@@ -10,7 +10,7 @@ I am a detail-oriented Data Science student based in Bratislava, Slovakia. Curre
 - 🌍 Based in: **Bratislava, Slovakia**
 - 🎓 Education: **B.Sc. in Data Science** at Comenius University (Expected graduation: June 2029)
 - 💼 Current Role: **Data Management Intern** at **ČSOB**
-- ⏳ Looking for: **Part-time (4h/day) Internship / Junior roles** in Data Science / Machine Learning (Local or Hybrid in Bratislava)
+- 🎯 Future Goal: Transitioning into **Machine Learning Engineer** roles as my academic and corporate experience grows.
 - 🎯 Passionate about: Uncovering hidden patterns in data, financial technology, and building analytical solutions that stand the test of time.
 
 ---
